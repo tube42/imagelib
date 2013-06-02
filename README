@@ -1,0 +1,8 @@
+imagelib
+========
+
+SummaryWikiTimelineRoadmapSourceFilesTicketsSearchDiscussionAdmin
+Imagelib is a lightweight J2ME library for performing simple image manipulation tasks on the phone.
+
+Currently, the library contains functions for color operations including interpolation, blending and RGB/YCbCr conversion, image operations including resizing, blending, filtering and pixel modifiers and some simple image analysis functions.
+
