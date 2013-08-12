@@ -16,11 +16,13 @@ Currently, the library contains functions for color operations including interpo
 Great, but what is it for?
 --------------------------
 You can for example use the imagelib to
+
 * dynamically resize your graphics, depending on the detected screen size
 * create a "retro effect" application
 
 What is it NOT good for?
 ------------------------
+
 * J2ME is slow and so are most J2ME phones. Given that image processing is very CPU intensive, this library is NOT suitable for real-time effects and such.
 
 Examples
