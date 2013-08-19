@@ -1,7 +1,7 @@
 /*
  * This file is a part of the TUBE42 imagelib, released under the LGPL license.
  *
- * Development page: http://projects.developer.nokia.com/imagelib
+ * Development page: https://github.com/tube42/imagelib
  * License:          http://www.gnu.org/copyleft/lesser.html
  */
 
